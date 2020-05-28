@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217936764712",
+    "firebase_url": "https://quizme-9d845.firebaseio.com",
+    "project_id": "quizme-9d845",
+    "storage_bucket": "quizme-9d845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217936764712:android:abc20e45d1b9f34c82ba1d",
+        "android_client_info": {
+          "package_name": "com.Harshul.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217936764712-gm1hoi74tu2chdgq72g41633qj3ned0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCljSs1gsgOAoC159yU2ef8jcSjzqqh4VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217936764712-gm1hoi74tu2chdgq72g41633qj3ned0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
